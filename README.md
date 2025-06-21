@@ -16,13 +16,6 @@ A beginner-friendly Android application built using **Kotlin**. This app perform
 
 ---
 
-## 📸 Screenshots
-
-*(You can add screenshots like this:)*  
-![App UI](screenshots/calculator_ui.png)
-
----
-
 ## 🛠 Tech Stack
 
 - **Language:** Kotlin  
